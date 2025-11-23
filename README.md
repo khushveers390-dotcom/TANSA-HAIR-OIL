@@ -94,8 +94,8 @@
   </div>  <div class="section product-box">
     <h2>Buy Now</h2>
     <img src="https://via.placeholder.com/250" alt="Tansa Oil" style="border-radius:10px;" />
-    <p>Price: ₹249/- only</p>
-    <a href="#" class="cta">Order on WhatsApp</a>
+    <p>Price: ₹399/- only</p>
+    <a href="#" class="cta">Order on WhatsApp 9918321274</a>
   </div>  <footer>
     © 2025 Tansa Hair & Beard Oil. All Rights Reserved.
   </footer>
